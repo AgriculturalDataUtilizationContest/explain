@@ -26,7 +26,8 @@
 
 ## 🔧 기술 스택
 
-- **Backend**: Python, FastAPI  
+- **FrontEnd**: React
+- **Backend**: Python, FastAPI, Spring Boot, Spring AI  
 - **Data Processing**: Pandas, PyArrow  
 - **API**: KAMIS 농산물유통정보 API  
 - **ETL Format**: Parquet  
@@ -34,7 +35,7 @@
 
 ---
 
-## 🚀 실행 방법
+## 🚀 실행 방법 (Fast API)
 
 ```bash
 # 1. 가상환경 설정
